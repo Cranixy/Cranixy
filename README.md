@@ -11,8 +11,3 @@ Lately, I’ve been diving into cloud security, curious about how all the moving
 - 🎯 CTF player (HTB / THM / internal comps)
 - ☁️ Exploring cloud security & architecture
 - 🧠 Passionate about reversing & exploiting
-
-# 0x03 | TryHackMe Badge
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cranixy.png" alt="TryHackMe Badge" />
-</p>
