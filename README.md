@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="banner.png" " height="200">
-</p>
-
-
-### 🕶️ 0x01 | whoami
-
-Hey nerds. I'm **Cranixy** — your average sleepless student exploring everything from cyber defense to digital forensics.  
-I like code, chaos, reverse engineering, and breaking software that says "unbreakable."
-
 ---
+
+### 0x01 | Whoami
+
+Name’s **Ramy**, but I go by **Cranixy** online.  
+I’m deep into pentesting, red teaming, and always on the hunt for new CTFs to crack.  
+Lately, I’ve been diving into cloud security — curious about how all the moving parts fit (and break).
