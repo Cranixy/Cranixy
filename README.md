@@ -2,7 +2,6 @@
   <img src="banner.png" " height="200">
 </p>
 
----
 
 ### 🕶️ 0x01 | whoami
 
