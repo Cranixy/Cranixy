@@ -1,6 +1,6 @@
 
 
-## 0x01 | Whoami
+# 0x01 | Whoami
 
 Name’s **Ramy**, but I go by **Cranixy** online.  
 I’m deep into pentesting, red teaming, and always on the hunt for new CTFs to crack.  
